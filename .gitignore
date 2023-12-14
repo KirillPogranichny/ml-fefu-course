@@ -1,4 +1,5 @@
 .idea
 data
+catboost_info
 01-knn.ipynb
 02_linreg.ipynb
