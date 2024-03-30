@@ -1,4 +1,5 @@
 .idea
+venv
 data
 catboost_info
 01-knn.ipynb
